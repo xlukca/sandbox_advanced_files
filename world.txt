@@ -1,6 +1,7 @@
 Europe:
 Slovakia - Kosice
 Czech republic - Prague
+Hungary - Budapest
 
 Asia:
 Japan – Osaka
@@ -8,4 +9,4 @@ China – Peking
 
 America:
 USA – Washington
-Canada - Ottawa
+Kuba - Havana
